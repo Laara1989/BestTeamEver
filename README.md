@@ -1,3 +1,3 @@
 This is B’s first change! # BestTeamEver
 Repository for team exercise
-This is C’s first change
+This is B’s second change
